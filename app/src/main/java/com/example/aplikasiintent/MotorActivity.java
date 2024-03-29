@@ -37,7 +37,7 @@ public class MotorActivity extends AppCompatActivity implements View.OnClickList
             Detail motor1 = new Detail();
             motor1.setGambar("motor1");
             motor1.setName("KAWASAKI NINJA H2R");
-            motor1.setPrice("RP. 873.000.000,00");
+            motor1.setPrice("Harga: RP. 873.000.000,00");
             motor1.setType("Type: Sport");
             motor1.setCc("Mesin: 998cc");
 
@@ -49,7 +49,7 @@ public class MotorActivity extends AppCompatActivity implements View.OnClickList
             Detail motor2 = new Detail();
             motor2.setGambar("motor2");
             motor2.setName("APRILIA RSV4");
-            motor2.setPrice("RP. 823.000.000,00");
+            motor2.setPrice("Harga: RP. 823.000.000,00");
             motor2.setType("Type: Sport");
             motor2.setCc("Mesin: 955cc");
 
@@ -61,7 +61,7 @@ public class MotorActivity extends AppCompatActivity implements View.OnClickList
             Detail motor3 = new Detail();
             motor3.setGambar("motor3");
             motor3.setName("BMW HP4");
-            motor3.setPrice("RP. 1.300.000.000,00");
+            motor3.setPrice("Harga: RP. 1.300.000.000,00");
             motor3.setType("Type: Sport");
             motor3.setCc("Mesin: 999cc");
 
@@ -73,7 +73,7 @@ public class MotorActivity extends AppCompatActivity implements View.OnClickList
             Detail motor4 = new Detail();
             motor4.setGambar("motor4");
             motor4.setName("YAMAHA R1M");
-            motor4.setPrice("RP. 812.000.000,00");
+            motor4.setPrice("Harga: RP. 812.000.000,00");
             motor4.setType("Type: Sport");
             motor4.setCc("Mesin: 998cc");
 
@@ -85,7 +85,7 @@ public class MotorActivity extends AppCompatActivity implements View.OnClickList
             Detail motor5 = new Detail();
             motor5.setGambar("motor5");
             motor5.setName("DUCATI PANIGALE");
-            motor5.setPrice("RP. 799.000.000,00");
+            motor5.setPrice("Harga: RP. 799.000.000,00");
             motor5.setType("Type: Sport");
             motor5.setCc("Mesin: 955cc");
 

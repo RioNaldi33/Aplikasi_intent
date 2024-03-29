@@ -50,7 +50,7 @@ public class SepedaActivity extends AppCompatActivity implements View.OnClickLis
             Detail sepeda2 = new Detail();
             sepeda2.setGambar("sepeda2");
             sepeda2.setName("POLYGON Sepeda Gunung Xtrada 5 2020 27.5 inch");
-            sepeda2.setPrice("RP. 7.710.000,00");
+            sepeda2.setPrice("Harga: RP. 7.710.000,00");
             sepeda2.setType("Type: Sepeda Gunung");
             sepeda2.setCc("Frame: ALX XC 27.5 & 29");
 
@@ -62,7 +62,7 @@ public class SepedaActivity extends AppCompatActivity implements View.OnClickLis
             Detail sepeda3 = new Detail();
             sepeda3.setGambar("sepeda3");
             sepeda3.setName("POLYGON Premier 4 27.5 Inch");
-            sepeda3.setPrice("RP. 5.500.000,00");
+            sepeda3.setPrice("Harga: RP. 5.500.000,00");
             sepeda3.setType("Type: BMX");
             sepeda3.setCc("Frame: ALUTECH XC SPORT FRAME");
 
@@ -74,7 +74,7 @@ public class SepedaActivity extends AppCompatActivity implements View.OnClickLis
             Detail sepeda4 = new Detail();
             sepeda4.setGambar("sepeda4");
             sepeda4.setName("POLYGON Sepeda Premier 5 Size M");
-            sepeda4.setPrice("RP. 5.494.500,00");
+            sepeda4.setPrice("Harga: RP. 5.494.500,00");
             sepeda4.setType("Type: BMX");
             sepeda4.setCc("Frame: Alloy Internal Cable Routing");
 
@@ -86,7 +86,7 @@ public class SepedaActivity extends AppCompatActivity implements View.OnClickLis
             Detail sepeda5 = new Detail();
             sepeda5.setGambar("sepeda5");
             sepeda5.setName("POLYGON Urbano 5 Sepeda Lipat 20 Inch");
-            sepeda5.setPrice("RP. 7.038.500,00");
+            sepeda5.setPrice("Harga: RP. 7.038.500,00");
             sepeda5.setType("Type: Sepeda Lipat");
             sepeda5.setCc("Frame: Alloy");
 
