@@ -21,10 +21,10 @@
 
   <LinearLayout
       android:layout_width="match_parent"
-      android:layout_height="wrap_content"
+      android:layout_height="561dp"
       android:layout_gravity="center"
       android:layout_marginLeft="25dp"
-      android:layout_marginTop="30dp"
+      android:layout_marginTop="25dp"
       android:layout_marginRight="25dp"
       android:background="@drawable/backdepan"
       android:orientation="vertical">
@@ -46,7 +46,6 @@
             android:layout_height="344dp"
             android:layout_marginTop="20dp"
             android:adjustViewBounds="true"
-            android:background="@color/cardview_dark_background"
             android:cropToPadding="true"
             android:src="@drawable/mobil1" />
       </androidx.cardview.widget.CardView>
@@ -128,7 +127,9 @@
         android:layout_gravity="center"
         android:layout_marginLeft="5dp"
         android:layout_marginRight="5dp"
-        android:layout_marginBottom="5dp"></LinearLayout>
+        android:layout_marginBottom="5dp">
+
+    </LinearLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -149,26 +150,6 @@
           android:text="1500"
           android:textColor="@color/black"
           android:textSize="12.5dp" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="5dp">
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginLeft="5dp"
-        android:layout_marginRight="5dp"
-        android:layout_marginBottom="20dp">
-
     </LinearLayout>
   </LinearLayout>
 </LinearLayout>

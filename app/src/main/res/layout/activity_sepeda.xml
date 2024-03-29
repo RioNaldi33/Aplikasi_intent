@@ -91,7 +91,7 @@
 
                 </LinearLayout>
             </LinearLayout>
-            <!-- BAJU 2 -->
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -152,7 +152,7 @@
                         android:textSize="14dp" />
                 </LinearLayout>
             </LinearLayout>
-            <!-- BAJU 3 -->
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -214,7 +214,7 @@
 
                 </LinearLayout>
             </LinearLayout>
-            <!-- BAJU 4 -->
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -276,7 +276,7 @@
 
                 </LinearLayout>
             </LinearLayout>
-            <!-- BAJU 5 -->
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
